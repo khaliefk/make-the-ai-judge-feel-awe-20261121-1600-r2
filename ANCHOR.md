@@ -1,0 +1,10 @@
+# Anchor
+
+This repository was created after the make.fun competition
+`make-the-ai-judge-feel-awe-20261121-1600` opened at 2026-11-21T16:00:00Z.
+
+- drand round: 6661786
+- drand randomness: ff26e68ebfe6c7cf57288f20518b63a92334129c87e083c7c6ce72c084995907
+- drand signature: 97c7970ccbe0558f646858efae8b6d914aa596db86599e587009c9e653aeae760cbe005e7ce6d500539ec27903c17357072abc6b5e936d5a1dd9772ad28fbab074f174c9a4ed4f528590c89416ace49e9cb87b6198772497e23637cb50c65d3e
+- drand previous signature: a3d69f90227937d7b94746bac2b123d806600131e69c23d0ef8baeeecc4a45ea76b61c460c83476e656e272c0a7af796143e822c7a3e25e4f0bcc23f1f1c95b453a88d6913f3a61e2f4fe1e739ba8a03157430aeb32a81183cc8d290234de93f
+- source: https://drand.cloudflare.com/public/latest
